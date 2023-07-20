@@ -20,7 +20,7 @@ Before you begin, ensure you have the following prerequisites set up:
 To get started, clone this repository to your local machine using `git`:
 
 ```bash
-git clone https://github.com/your-username/terraform-eks-setup.git
+git clone https://github.com/amarachi2022/Terraform-Setup-for-EKS
 cd terraform-eks-setup
 ```
 
