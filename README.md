@@ -6,7 +6,7 @@ This repository contains Terraform scripts and configuration files to set up an 
 ## Features
 
 - Infrastructure as Code: Define your EKS cluster infrastructure using Terraform, ensuring consistency and repeatability.
-- Configuration: Organized Terraform modules for easy customization and scalability.
+- Configuration: Organized Terraform variables for easy customization and scalability.
 - AWS Best Practices: Implement AWS-recommended configurations for EKS clusters.
 - Automated Deployment: Simplify the provisioning process with scripts for easy cluster creation.
 
